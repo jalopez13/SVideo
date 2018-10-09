@@ -1,0 +1,22 @@
+body {
+  background-color: steelblue;
+  color: #fff;
+}
+
+a {
+  color: #fff;
+  &:hover {
+    color: lightblue;
+    text-decoration: none;
+  }
+}
+.aligner {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.section_title {
+  text-align: center;
+  padding: 40px;
+}
