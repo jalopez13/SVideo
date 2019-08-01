@@ -6,7 +6,6 @@ Simple Movie search application using react and https://api.themoviedb.org API.
 
 ```
 yarn install
-
 ```
 
 Then enter a term to search for in the search field.
